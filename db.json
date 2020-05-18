@@ -1,0 +1,62 @@
+{
+    "lists": [
+        {
+            "id": 1,
+            "index": 1,
+            "eventname": "eventname",
+            "eventtype": "eventtype",
+            "pagename": "pagename",
+            "params": "params",
+            "describe": "eventname",
+            "remark": "eventname"
+        },
+        {
+            "id": 1,
+            "index": 1,
+            "eventname": "eventname",
+            "eventtype": "eventtype",
+            "pagename": "pagename",
+            "params": "params",
+            "describe": "eventname",
+            "remark": "eventname"
+        },
+        {
+            "id": 1,
+            "index": 1,
+            "eventname": "eventname",
+            "eventtype": "eventtype",
+            "pagename": "pagename",
+            "params": "params",
+            "describe": "eventname",
+            "remark": "eventname"
+        }
+    ],
+    "bgs": [
+        {
+            "label": "label1",
+            "value": "value1"
+        },
+        {
+            "label": "label2",
+            "value": "value2"
+        },
+        {
+            "label": "label3",
+            "value": "value3"
+        }
+    ],
+    "projects": [
+        {
+            "label": "label1",
+            "value": "value1"
+        },
+        {
+            "label": "label2",
+            "value": "value2"
+        },
+        {
+            "label": "label3",
+            "value": "value3"
+        }
+    ]
+}
